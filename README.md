@@ -1,9 +1,5 @@
 ## Agentic AI Behavioral Profiling System for HR Interviews
 
-### Project Title
-
-Agentic AI Behavioral Profiling System for HR Interviews
-
 ### Scope
 
 - **Inputs**: Real-time video and audio streams from a custom meeting application.  
