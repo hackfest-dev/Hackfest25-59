@@ -1,3 +1,13 @@
-python-dotenv
-livekit-plugins-google
 opencv-python
+numpy
+mediapipe
+deepface
+matplotlib
+pandas
+scipy
+librosa
+praat-parselmouth
+sounddevice
+python-dotenv
+livekit-agents
+livekit-plugins-google
