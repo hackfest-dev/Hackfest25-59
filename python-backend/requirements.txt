@@ -1,0 +1,3 @@
+python-dotenv
+livekit-plugins-google
+opencv-python
