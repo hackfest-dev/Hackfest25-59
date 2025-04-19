@@ -1,0 +1,38 @@
+Session started: 2025-04-20 04:17:50
+Logging interval: 15 seconds
+Emotion detection: Enabled
+
+
+
+--- FINAL SESSION SUMMARY ---
+Session completed: 2025-04-20 04:20:27
+Total duration: 00:02:37
+Frames processed: 4126
+Average FPS: 28.5
+
+=== BLINK STATISTICS ===
+Total blinks: 67
+Blink rate: 25.6 blinks per minute
+Average blink rate: 26.4 blinks per minute
+Peak blink rate: 40.0 blinks per minute
+Average blink duration: 1.118s
+
+=== ATTENTION STATISTICS ===
+Focused: 60.4% (2306 frames)
+Partially Attentive: 27.5% (1052 frames)
+Distracted: 12.1% (461 frames)
+
+=== POSTURE STATISTICS ===
+Poor: 95.6% (130 frames)
+Fair: 4.4% (6 frames)
+Posture issues: 130
+
+=== FATIGUE STATISTICS ===
+Fatigue incidents: 257
+Drowsiness alerts: 122
+
+=== EMOTION STATISTICS ===
+neutral: 77.9% (406 detections)
+sad: 10.7% (56 detections)
+angry: 5.6% (29 detections)
+fear: 4.6% (24 detections)

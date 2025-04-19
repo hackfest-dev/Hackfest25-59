@@ -1,0 +1,24 @@
+BACKUP LOG - Session interrupted at: 2025-04-20 04:20:28
+Partial session duration: 2.6 minutes
+Frames processed: 4126
+Total blinks detected: 67
+Average blink rate: 25.5 bpm
+
+--- PARTIAL SESSION STATS ---
+
+Attention States:
+  Focused: 2306 frames
+  Partially Attentive: 1052 frames
+  Distracted: 461 frames
+
+Posture States:
+  Poor: 130 frames
+  Fair: 6 frames
+
+Emotion Distribution:
+  angry: 29 detections
+  fear: 24 detections
+  happy: 3 detections
+  sad: 56 detections
+  surprise: 3 detections
+  neutral: 406 detections

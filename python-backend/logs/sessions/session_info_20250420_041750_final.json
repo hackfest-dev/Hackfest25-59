@@ -1,0 +1,50 @@
+{
+    "session": {
+        "start_time": "2025-04-20 04:17:50",
+        "end_time": "2025-04-20 04:20:27",
+        "duration_seconds": 157.10186219215393,
+        "frames_processed": 4126,
+        "average_fps": 28.477523761190227
+    },
+    "blink_analysis": {
+        "total_blinks": 67,
+        "blink_rate_per_minute": 25.58849363022235,
+        "average_blink_duration": 1.118373950322469,
+        "max_blink_rate": 39.96780001514169,
+        "min_blink_rate": 15.957089927273339
+    },
+    "attention_analysis": {
+        "states": {
+            "Focused": 60.38229903115999,
+            "Partially Attentive": 27.546478135637603,
+            "Distracted": 12.071222833202409
+        }
+    },
+    "posture_analysis": {
+        "states": {
+            "Poor": 95.58823529411765,
+            "Fair": 4.411764705882353
+        },
+        "posture_issues": 130
+    },
+    "fatigue_analysis": {
+        "incidents": 257,
+        "drowsiness_alerts": 122
+    },
+    "emotion_analysis": {
+        "emotions": {
+            "angry": 5.566218809980806,
+            "disgust": 0.0,
+            "fear": 4.606525911708253,
+            "happy": 0.5758157389635317,
+            "sad": 10.748560460652591,
+            "surprise": 0.5758157389635317,
+            "neutral": 77.92706333973129
+        }
+    },
+    "performance": {
+        "average_processing_time": 0.025386722882588704,
+        "max_processing_time": 0.03424978256225586,
+        "min_processing_time": 0.022865772247314453
+    }
+}
